@@ -1,4 +1,3 @@
-
 // ============ CORE ============
 let balance = 1000, BET = 10, audioCtx = null;
 function upd(){ document.getElementById('balance').textContent = balance; }
